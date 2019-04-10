@@ -1,0 +1,59 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=свт╡
+fontFile=
+charSet=134
+fontSize=32
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=0
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=1
+renderFromOutline=0
+useClearType=1
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=256
+outHeight=256
+outBitDepth=32
+fontDescFormat=0
+fourChnlPacked=0
+textureFormat=tga
+textureCompression=0
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=32-126,164,167-168,176-177,183,215,224-225,232-234,236-237,242-243,247,249-250,252,8208,8211-8214
+chars=8216-8217,8220-8221,8229-8230,8240,8242-8243,8245,8251,8544-8555,8560-8569,8592-8595,8598-8601,9312
+chars=9313-9321,9332-9371,19968-40869,63788,63865,63893,63975,63985,64012-64015,64017,64019-64020,64024
+chars=64031-64033,64035-64036,64039-64041,65104-65111,65113-65126,65128-65131,65281-65374,65504-65509
+
+
+# imported icon images
